@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+
+header{ box-shadow: 10px 0px 15px; }
+table th{ font-size: 20px;  }
+table td{ font-size: 15px; } 
+button,
+.button {
+	margin-bottom: 0 !important;
+	margin-right: .5rem;
+}
